@@ -13,7 +13,7 @@ Hi There
 ***
 
  - **Hi i'm Two. i'm studying in computer engineering** 🚀
- - **My goal is studying about hardware and electronic **
+ - **My goal is studying about hardware and electronic**
 
 ***
 
